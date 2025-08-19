@@ -19,7 +19,7 @@ Scaling mobile test automation for Android & iOS apps
 
 Languages: Java, C++, JavaScript, Python, SQL
 
-Tools: Selenium, Appium, TestNG, Jenkins, Postman, Git, Jira
+Tools: Selenium, RestAssured, Appium, TestNG, Jenkins, Postman, Git, Jira
 
 Databases: MySQL
 
